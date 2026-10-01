@@ -1,0 +1,25 @@
+passo a passo para enviar para o github pelo terminal(
+    01 - 
+git config user.email 
+    02 - 
+git config --global user.email "ana_guerso@estudante.sesisenai.org.br"
+    03 - 
+git config user.email
+    04 - 
+git init
+    05 - 
+git add .
+    06 - 
+git commit -m "primeira versao"
+    07 - 
+git branch -M main
+    08 - 
+git remote add origin https://github.com/anaguerso-prog/exemplo.git
+    09 - 
+git push -u origin main
+
+    (para atualizações)
+    -- passo 5, passo 6 e então passo 10
+    10 - 
+git push
+    )

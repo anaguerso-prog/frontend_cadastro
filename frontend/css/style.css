@@ -1,0 +1,36 @@
+*{
+    padding: 0.5rem;
+    margin: 0;
+}
+body{
+    padding-left: 1.4rem;
+    background: linear-gradient(to left, rgb(242, 68, 167), rgb(219, 28, 136), rgb(188, 14, 112));
+}
+h1{
+    color:wheat;
+    font-size: 3.2rem;
+    font-family: 'Times New Roman';
+}
+h2,p{
+    color:wheat;
+    font-size: 1rem;
+    font-family: 'Lucida Sans';
+    margin-left: 2rem;
+}
+label{
+    margin-left: 1rem;
+    margin-top: 2rem;
+    color: wheat;
+    font-family: 'Lucida Sans';
+    
+}
+input, button{
+    margin-left: 1rem;
+    border-radius: 8px;
+    font-family: 'Lucida Sans';
+}
+div{
+    color: wheat;
+    margin-left: 1rem;
+    font-family: 'Lucida Sans';
+}
